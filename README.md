@@ -3,7 +3,7 @@
 🇬🇧 **English Version**
 
 #### Take a look on the chatroom here:  
-[https://levinpanowitz.github.io/kic_chatroom.github.io/](https://levinpanowitz.github.io/kic_chatroom.github.io/)
+[https://fantastic-space-acorn-r4wwp5qjxxgr3454.github.dev](https://fantastic-space-acorn-r4wwp5qjxxgr3454.github.dev)
 
 
 #### To create your own chatroom:
@@ -20,7 +20,7 @@
 🇩🇪 **Deutsche Version**
 
 #### Schau dir den Chatroom hier an:  
-[https://levinpanowitz.github.io/kic_chatroom.github.io/](https://levinpanowitz.github.io/kic_chatroom.github.io/)
+[https://fantastic-space-acorn-r4wwp5qjxxgr3454.github.dev](https://fantastic-space-acorn-r4wwp5qjxxgr3454.github.dev)
 
 #### Möchtest du deinen eigenen Chatroom einrichten? So geht's:
 1. Forke dieses Repository (dadurch erhältst du eine Kopie des Projekts in deinem GitHub-Konto).
